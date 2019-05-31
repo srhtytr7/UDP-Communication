@@ -1,3 +1,3 @@
 # UDP-Communication
 UDP communicaton example in C#
-Includes sycnhronus, asyncronous and aasyncronous with thread examples in c# form application.
+Includes synchronous, asynchronous and asynchronous with thread examples in c# form application.
