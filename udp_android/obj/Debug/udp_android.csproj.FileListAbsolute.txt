@@ -1,0 +1,10 @@
+C:\Users\Serhat\source\repos\udp_example\udp_android\bin\Debug\udp_android.exe.config
+C:\Users\Serhat\source\repos\udp_example\udp_android\bin\Debug\udp_android.exe
+C:\Users\Serhat\source\repos\udp_example\udp_android\bin\Debug\udp_android.pdb
+C:\Users\Serhat\source\repos\udp_example\udp_android\obj\Debug\udp_android.csprojAssemblyReference.cache
+C:\Users\Serhat\source\repos\udp_example\udp_android\obj\Debug\udp_android.Form1.resources
+C:\Users\Serhat\source\repos\udp_example\udp_android\obj\Debug\udp_android.Properties.Resources.resources
+C:\Users\Serhat\source\repos\udp_example\udp_android\obj\Debug\udp_android.csproj.GenerateResource.cache
+C:\Users\Serhat\source\repos\udp_example\udp_android\obj\Debug\udp_android.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\source\repos\udp_example\udp_android\obj\Debug\udp_android.exe
+C:\Users\Serhat\source\repos\udp_example\udp_android\obj\Debug\udp_android.pdb
