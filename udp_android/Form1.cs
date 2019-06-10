@@ -79,5 +79,10 @@ namespace udp_android
         {
             Process.GetCurrentProcess().Kill(); // for killing all threads
         }
+
+        private void Form1_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Process.GetCurrentProcess().Kill(); // for killing all threads
+        }
     }
 }
